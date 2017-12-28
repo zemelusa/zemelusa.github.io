@@ -197,7 +197,7 @@ SUBMIT
     <label for="ip13" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Write your story</label>
   </div>
 </div>
-    
+
 <div class="flex flex-column items-center">
   <label class="www-example-label bold mb3">Disabled Textarea</label>
   <div class="ampstart-input inline-block relative m0 p0 mb3 ">
