@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: P4N4Rd1
+description: '- CERT Security Analyst -'
 url: 'http://zemelusa.github.io/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -11,7 +11,8 @@ author:
   email: zemelusa@gmail.com
   twitter_username: zemelusa
   github_username:  zemelusa
-  linkedin_username: pierre-alexis-225845a6 
+  linkedin_username: panardin
+  medium_username: zemelusa
 
 defaults:
   -
