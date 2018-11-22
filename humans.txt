@@ -5,10 +5,9 @@ exclude: 'yes'
 ---
 
 /* TEAM */
-Developer & Designer: Josh Gerdes
-Twitter: @joshgerdes
-Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
+Twitter: @zemelusa
+Site: https://zemelusa.github.io
+Location: Toulouse, FR
 						
 /* THANKS */
 Name: Dale Anthony

@@ -3,79 +3,79 @@
 
 I hereby claim:
 
-  * I am an admin of https://zemelusa.github.io
-    * I am panardin (https://keybase.io/panardin) on keybase.
-      * I have a public key with fingerprint 9CB9 CF47 8F5C 4DE2 0F3B  C326 A078 D71C AA80 C01C
+* I am an admin of https://zemelusa.github.io
+* I am panardin (https://keybase.io/panardin) on keybase.
+* I have a public key with fingerprint 9CB9 CF47 8F5C 4DE2 0F3B  C326 A078 D71C AA80 C01C
 
-      To do so, I am signing this object:
+To do so, I am signing this object:
 
-      {
-	        "body": {
-			    "key": {
-				          "eldest_kid": "0101ef976f51c2a1d92ccce46497448ebb35784b2122cd4c4bfb7eda0d5cdaa158390a",
-					        "fingerprint": "9cb9cf478f5c4de20f3bc326a078d71caa80c01c",
-						      "host": "keybase.io",
-						            "key_id": "a078d71caa80c01c",
-							          "kid": "0101ef976f51c2a1d92ccce46497448ebb35784b2122cd4c4bfb7eda0d5cdaa158390a",
-								        "uid": "1489cd38d586ccf69c050d3839e08919",
-									      "username": "panardin"
-									          },
-										      "merkle_root": {
-											            "ctime": 1542568022,
-												          "hash_meta": "4dbe8bb477d6029e2283d0451250650df426345e1ca53cc5bb76d6053628415f",
-													        "seqno": 3972901
-														    },
-														        "revoke": {
-																      "sig_ids": [
-																              "6f38b85e298572d7f825eb06d306135fba68c34c52fcc5e08062850c14b6c8690f"
-																	            ]
-																		        },
-																			    "service": {
-																				          "hostname": "zemelusa.github.io",
-																					        "protocol": "https:"
-																						    },
-																						        "type": "web_service_binding",
-																							    "version": 1
-																							      },
-																							        "ctime": 1542568035,
-																								  "expire_in": 157680000,
-																								    "prev": "b7d23ced2f2d9b51af807968b14ee6b28e79809a6db0320a8ec2814b5508e2c4",
-																								      "seqno": 19,
-																								        "tag": "signature"
-      }
+{
+      "body": {
+            "key": {
+                  "eldest_kid": "0101ef976f51c2a1d92ccce46497448ebb35784b2122cd4c4bfb7eda0d5cdaa158390a",
+                  "fingerprint": "9cb9cf478f5c4de20f3bc326a078d71caa80c01c",
+                  "host": "keybase.io",
+                  "key_id": "a078d71caa80c01c",
+                  "kid": "0101ef976f51c2a1d92ccce46497448ebb35784b2122cd4c4bfb7eda0d5cdaa158390a",
+                  "uid": "1489cd38d586ccf69c050d3839e08919",
+                  "username": "panardin"
+            },
+            "merkle_root": {
+                  "ctime": 1542568022,
+                  "hash_meta": "4dbe8bb477d6029e2283d0451250650df426345e1ca53cc5bb76d6053628415f",
+                  "seqno": 3972901
+            },
+            "revoke": {
+                  "sig_ids": [
+                  "6f38b85e298572d7f825eb06d306135fba68c34c52fcc5e08062850c14b6c8690f"
+                  ]
+            },
+            "service": {
+                  "hostname": "zemelusa.github.io",
+                  "protocol": "https:"
+            },
+            "type": "web_service_binding",
+            "version": 1
+      },
+      "ctime": 1542568035,
+      "expire_in": 157680000,
+      "prev": "b7d23ced2f2d9b51af807968b14ee6b28e79809a6db0320a8ec2814b5508e2c4",
+      "seqno": 19,
+      "tag": "signature"
+}
 
-      which yields the signature:
+which yields the signature:
 
-      -----BEGIN PGP MESSAGE-----
-      Version: Keybase OpenPGP v2.0.80
-      Comment: https://keybase.io/crypto
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
 
-      yMK9AnicrVNbaB1FGD5pYzXBaGLRqhCt+yQa6uzszOzM8ZbmQVMMmlRRIbEnc/n3
-      ZD3n7J7sblJjjaVqSxFq8UFpjUYDjQ+iUmhQGwho2hc1Clar0OKtmjYFDShY+lSc
-      jRVBfHRflpn5/u82zNGW1YXmhq6pM7Vnz+xqb/h0/qmRQv9vH+htjorNmFPc5lRg
-      5QdVA2lWqoTGKTrIRS4EwmcBdTWWrhFYaw2EEeETwkEpj/qcKOxirA3RRAXKByOR
-      odpI6VLuCSSdDicIozIk9SSMMksrtBI6ID4PqCYGMAo8pT3MJPK58V0tJUcaudoO
-      DsVpPmHNKZnChjC2e3ZRWrH3H/j/2ffICp1LuNDG44ZypnXAhEYU2bUnAHHhihyY
-      QhLJGlh0XUYyMWHkjHc4NUgqVSglcZzl5eoszCEuJZgyjjC2AWU6VKpBJu0kMQq4
-      UsT3DUNYAMbcM4hQF1PErGJAMPMIBZuYelpTpXxmkdRjmBOXBtZHCsNR7BQ94WOB
-      XOsggdG4Arl4GpZtbalT7HdY4HHFKWDBqY+NH3BMQSFmPMRcjwZKMq49oikOrIwN
-      iawCRdolimnOBAqcx8ZzsWQ01Cvk+T1dzP8k1KA6ksoN5TAbGlF/3Vk9ibNYx1V7
-      PpRl9bSYt5ON1fOBraBKF6lKKoxsdWU7MQpJGsaRbcsi/1WcRzsceKIeJlAKcwT1
-      7ab9ch0YtZTKN9jTYHCAjVDUlQFHvmBcuQSAKczBFxwJyYxCHkaSg8bcpqMUccCa
-      /NOkK6xPWbactr9IZiMJOOPzHw40FhqaC2suWZU/okJzU+vfT+ujHZcV3j/WfPXO
-      5Yf/WHabNnWuu2LxviPRZ4tLfft/uplu71rovmbw2PLu+T2Pn3tooI1O/FpsffDk
-      ROO+1za+OnXT9VrO3vHCQu9dbb8/d/uJSTb25WJxU+/Zl/XgW1/dn+44reR61LGl
-      5fPNldM/TC/tX9V/6FTTzkPXwt27B6Z7vntv7Q2ntlSPPzo3cUtn3wEnmnuju20S
-      fdt/Z3v70pv1hbPn753du3bXle9+89JgWun6+Fzvwa9fmR2e/OLnhaPrnz9u9tUu
-      tMTn4xPPrOmJWn6cOTm6de/Gvk9evLWnMWm/bfjwpWimlfSqGy9/5PXpdU9fd8+F
-      A5Pdnb888M7mme+ZXH34qqk9le36yFzr2wf/BLjkgWM=
-      =I7xs
-      -----END PGP MESSAGE-----
+yMK9AnicrVNbaB1FGD5pYzXBaGLRqhCt+yQa6uzszOzM8ZbmQVMMmlRRIbEnc/n3
+ZD3n7J7sblJjjaVqSxFq8UFpjUYDjQ+iUmhQGwho2hc1Clar0OKtmjYFDShY+lSc
+jRVBfHRflpn5/u82zNGW1YXmhq6pM7Vnz+xqb/h0/qmRQv9vH+htjorNmFPc5lRg
+5QdVA2lWqoTGKTrIRS4EwmcBdTWWrhFYaw2EEeETwkEpj/qcKOxirA3RRAXKByOR
+odpI6VLuCSSdDicIozIk9SSMMksrtBI6ID4PqCYGMAo8pT3MJPK58V0tJUcaudoO
+DsVpPmHNKZnChjC2e3ZRWrH3H/j/2ffICp1LuNDG44ZypnXAhEYU2bUnAHHhihyY
+QhLJGlh0XUYyMWHkjHc4NUgqVSglcZzl5eoszCEuJZgyjjC2AWU6VKpBJu0kMQq4
+UsT3DUNYAMbcM4hQF1PErGJAMPMIBZuYelpTpXxmkdRjmBOXBtZHCsNR7BQ94WOB
+XOsggdG4Arl4GpZtbalT7HdY4HHFKWDBqY+NH3BMQSFmPMRcjwZKMq49oikOrIwN
+iawCRdolimnOBAqcx8ZzsWQ01Cvk+T1dzP8k1KA6ksoN5TAbGlF/3Vk9ibNYx1V7
+PpRl9bSYt5ON1fOBraBKF6lKKoxsdWU7MQpJGsaRbcsi/1WcRzsceKIeJlAKcwT1
+7ab9ch0YtZTKN9jTYHCAjVDUlQFHvmBcuQSAKczBFxwJyYxCHkaSg8bcpqMUccCa
+/NOkK6xPWbactr9IZiMJOOPzHw40FhqaC2suWZU/okJzU+vfT+ujHZcV3j/WfPXO
+5Yf/WHabNnWuu2LxviPRZ4tLfft/uplu71rovmbw2PLu+T2Pn3tooI1O/FpsffDk
+ROO+1za+OnXT9VrO3vHCQu9dbb8/d/uJSTb25WJxU+/Zl/XgW1/dn+44reR61LGl
+5fPNldM/TC/tX9V/6FTTzkPXwt27B6Z7vntv7Q2ntlSPPzo3cUtn3wEnmnuju20S
+fdt/Z3v70pv1hbPn753du3bXle9+89JgWun6+Fzvwa9fmR2e/OLnhaPrnz9u9tUu
+tMTn4xPPrOmJWn6cOTm6de/Gvk9evLWnMWm/bfjwpWimlfSqGy9/5PXpdU9fd8+F
+A5Pdnb888M7mme+ZXH34qqk9le36yFzr2wf/BLjkgWM=
+=I7xs
+-----END PGP MESSAGE-----
 
-      And finally, I am proving ownership of this host by posting or
-      appending to this document.
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-      View my publicly-auditable identity here: https://keybase.io/panardin
+View my publicly-auditable identity here: https://keybase.io/panardin
 
-      ==================================================================
-      	
+==================================================================
+	
