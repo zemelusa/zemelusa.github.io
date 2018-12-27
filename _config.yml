@@ -3,8 +3,6 @@ title: P4N4Rd1
 description: '- CERT Security Analyst -'
 url: 'http://zemelusa.github.io/'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Zemelusa'
@@ -41,4 +39,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
