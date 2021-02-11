@@ -5,7 +5,6 @@ exclude: 'yes'
 ---
 
 /* TEAM */
-Twitter: @zemelusa
 Site: https://zemelusa.github.io
 Location: Toulouse, FR
 						
